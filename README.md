@@ -1,10 +1,10 @@
 # How To Host
 The easiest way to deploy this Bot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/QueenArzoo/VCPlayBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/erdemliserkan58/musicpro"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 Get STRING_NAME from here:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@QueenArzoo/VCPlayBot)
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@SerkanErdemli/VCPlayBot-1)
 
 ### Mandatory Vars.
 
@@ -21,61 +21,61 @@ Get STRING_NAME from here:
 
 
 
-## Komutlar ğŸ›
+## Komutlar ÄŸÅ¸â€º
 
-- `/play <şarkı adı>` - istediğiniz şarkıyı çal
-- `/dplay <şarkı adı>` - deezer aracılığıyla istediğiniz şarkıyı çal
-- `/splay <şarkı adı>` - istediğiniz şarkıyı jio saavn aracılığıyla çalın
-- `/playlist` - Şimdi oynatma listesini göster
-- `/current` - Şimdi oynatılıyor göster
-- `/song <şarkı adı>` - istediğiniz şarkıları hızlıca indirin
-- `/search <query>` - youtube'da ayrıntılarla videoları arayın
-- `/deezer <şarkı adı>` - deezer aracılığıyla istediğiniz şarkıları hızlıca indirin
-- `/saavn <şarkı adı>` - saavn ile istediğiniz şarkıları hızlıca indirin
-- `/video <şarkı adı>` - istediğiniz videoları hızlıca indirin
+- `/play <ÅŸarkÄ± adÄ±>` - istediÄŸiniz ÅŸarkÄ±yÄ± Ã§al
+- `/dplay <ÅŸarkÄ± adÄ±>` - deezer aracÄ±lÄ±ÄŸÄ±yla istediÄŸiniz ÅŸarkÄ±yÄ± Ã§al
+- `/splay <ÅŸarkÄ± adÄ±>` - istediÄŸiniz ÅŸarkÄ±yÄ± jio saavn aracÄ±lÄ±ÄŸÄ±yla Ã§alÄ±n
+- `/playlist` - Åimdi oynatma listesini gÃ¶ster
+- `/current` - Åimdi oynatÄ±lÄ±yor gÃ¶ster
+- `/song <ÅŸarkÄ± adÄ±>` - istediÄŸiniz ÅŸarkÄ±larÄ± hÄ±zlÄ±ca indirin
+- `/search <query>` - youtube'da ayrÄ±ntÄ±larla videolarÄ± arayÄ±n
+- `/deezer <ÅŸarkÄ± adÄ±>` - deezer aracÄ±lÄ±ÄŸÄ±yla istediÄŸiniz ÅŸarkÄ±larÄ± hÄ±zlÄ±ca indirin
+- `/saavn <ÅŸarkÄ± adÄ±>` - saavn ile istediÄŸiniz ÅŸarkÄ±larÄ± hÄ±zlÄ±ca indirin
+- `/video <ÅŸarkÄ± adÄ±>` - istediÄŸiniz videolarÄ± hÄ±zlÄ±ca indirin
 
-#### Yalnızca yöneticiler.
-- `/player` - müzik çalar ayarları panelini aç
-- `/pause` - şarkı çalmayı duraklat
-- `/resume` - şarkı çalmaya devam
-- `/skip` - sonraki şarkıyı çal
-- `/end` - müzik çalmayı durdur
-- `/userbotjoin` - asistanı sohbetinize davet edin
-- `/userbotleave` - asistanı sohbetinizden kaldırın
-- `/admincache` - Yönetici listesini yenile
+#### YalnÄ±zca yÃ¶neticiler.
+- `/player` - mÃ¼zik Ã§alar ayarlarÄ± panelini aÃ§
+- `/pause` - ÅŸarkÄ± Ã§almayÄ± duraklat
+- `/resume` - ÅŸarkÄ± Ã§almaya devam
+- `/skip` - sonraki ÅŸarkÄ±yÄ± Ã§al
+- `/end` - mÃ¼zik Ã§almayÄ± durdur
+- `/userbotjoin` - asistanÄ± sohbetinize davet edin
+- `/userbotleave` - asistanÄ± sohbetinizden kaldÄ±rÄ±n
+- `/admincache` - YÃ¶netici listesini yenile
 
-### Channel Music Play Komutları ğŸ›
-Yalnızca bağlı grup yöneticileri için:
-- `/cplay <şarkı adı>` - istediğiniz şarkıyı çal
-- `/cplay <reply to link>` - cevaplanan youtube bağlantısını oynat
-- `/cplay <reply to audio>` - cevaplanan dosyayı oynat
-- `/cdplay <şarkı adı>` - deezer aracılığıyla istediğiniz şarkıyı çal
-- `/csplay <şarkı adı>` - istediğiniz şarkıyı jio saavn aracılığıyla çalın
-- `/cplaylist` - Şimdi oynatma listesini göster
-- `/cccurrent` - Şimdi oynatılıyor göster
-- `/cplayer` - müzik çalar ayarları panelini aç
-- `/cpause` - şarkı çalmayı duraklat
-- `/cresume` - şarkı çalmaya devam et
-- `/cskip` - sonraki şarkıyı çal
-- `/cend` - müzik çalmayı durdur
-- `/userbotjoinchannel` - asistanı sohbetinize davet edin
-* kanal c yerine de kullanılabilir
+### Channel Music Play KomutlarÄ± ÄŸÅ¸â€º
+YalnÄ±zca baÄŸlÄ± grup yÃ¶neticileri iÃ§in:
+- `/cplay <ÅŸarkÄ± adÄ±>` - istediÄŸiniz ÅŸarkÄ±yÄ± Ã§al
+- `/cplay <reply to link>` - cevaplanan youtube baÄŸlantÄ±sÄ±nÄ± oynat
+- `/cplay <reply to audio>` - cevaplanan dosyayÄ± oynat
+- `/cdplay <ÅŸarkÄ± adÄ±>` - deezer aracÄ±lÄ±ÄŸÄ±yla istediÄŸiniz ÅŸarkÄ±yÄ± Ã§al
+- `/csplay <ÅŸarkÄ± adÄ±>` - istediÄŸiniz ÅŸarkÄ±yÄ± jio saavn aracÄ±lÄ±ÄŸÄ±yla Ã§alÄ±n
+- `/cplaylist` - Åimdi oynatma listesini gÃ¶ster
+- `/cccurrent` - Åimdi oynatÄ±lÄ±yor gÃ¶ster
+- `/cplayer` - mÃ¼zik Ã§alar ayarlarÄ± panelini aÃ§
+- `/cpause` - ÅŸarkÄ± Ã§almayÄ± duraklat
+- `/cresume` - ÅŸarkÄ± Ã§almaya devam et
+- `/cskip` - sonraki ÅŸarkÄ±yÄ± Ã§al
+- `/cend` - mÃ¼zik Ã§almayÄ± durdur
+- `/userbotjoinchannel` - asistanÄ± sohbetinize davet edin
+* kanal c yerine de kullanÄ±labilir
 
-Bağlantılı kanalda oynamayı sevmiyorsanız:
- 1. Kanal kimliğinizi alın.
- 2. Grubunuzu şu şekilde yeniden adlandırın: Kanal Müziği: your_channel_id
- 3. @VCPlayBot'u tam izinlerle Kanal yöneticisi olarak ekleyin
- 4. kanala yardımcı ekleyin
- 5. Grubunuza komutları göndermeniz yeterlidir.
+BaÄŸlantÄ±lÄ± kanalda oynamayÄ± sevmiyorsanÄ±z:
+ 1. Kanal kimliÄŸinizi alÄ±n.
+ 2. Grubunuzu ÅŸu ÅŸekilde yeniden adlandÄ±rÄ±n: Kanal MÃ¼ziÄŸi: your_channel_id
+ 3. @VCPlayBot'u tam izinlerle Kanal yÃ¶neticisi olarak ekleyin
+ 4. kanala yardÄ±mcÄ± ekleyin
+ 5. Grubunuza komutlarÄ± gÃ¶ndermeniz yeterlidir.
 
-### Normal Kullanıcıları için Komutlar âš”ï¸
-- `/userbotleaveall` - asistanı tüm sohbetlerden kaldır
-- `/gcast <mesajı yanıtla>' - global olarak yayın tüm sohbetlere mesaj yanıtladı
-- `/pmpermit [açık/kapalı]' - pmpermit mesajını etkinleştir/devre dışı bırak
+### Normal KullanÄ±cÄ±larÄ± iÃ§in Komutlar Ã¢Å¡â€Ã¯Â¸
+- `/userbotleaveall` - asistanÄ± tÃ¼m sohbetlerden kaldÄ±r
+- `/gcast <mesajÄ± yanÄ±tla>' - global olarak yayÄ±n tÃ¼m sohbetlere mesaj yanÄ±tladÄ±
+- `/pmpermit [aÃ§Ä±k/kapalÄ±]' - pmpermit mesajÄ±nÄ± etkinleÅŸtir/devre dÄ±ÅŸÄ± bÄ±rak
 
-#### İzin ver
-- `.a` - birinin size pm atmasını onaylayın
-- `.da` - birinin size mesaj atmasını onaylamayın
-+ Normal Kullanıcıları herhangi bir grupta herhangi bir komutu çalıştırabilir
+#### Ä°zin ver
+- `.a` - birinin size pm atmasÄ±nÄ± onaylayÄ±n
+- `.da` - birinin size mesaj atmasÄ±nÄ± onaylamayÄ±n
++ Normal KullanÄ±cÄ±larÄ± herhangi bir grupta herhangi bir komutu Ã§alÄ±ÅŸtÄ±rabilir
 
 
