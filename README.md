@@ -65,7 +65,7 @@ Baðlantýlý kanalda oynamayý sevmiyorsanýz:
  1. Kanal kimliðinizi alýn.
  2. Grubunuzu þu þekilde yeniden adlandýrýn: Kanal Müziði: your_channel_id
  3. @ByMusicBot'u tam izinlerle Kanal yöneticisi olarak ekleyin
- 4. Kanala yardýmcý asistan @ByMusicProAsistan ekleyin
+ 4. Kanala yardýmcý asistan @ByMusicBotAsistan ekleyin
  5. Grubunuza komutlarý göndermeniz yeterlidir.
 
 ### Normal Kullanýcýlarý için Komutlar ¸
