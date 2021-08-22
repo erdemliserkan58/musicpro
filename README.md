@@ -4,7 +4,7 @@ The easiest way to deploy this Bot
 
 Get STRING_NAME from here:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@SerkanErdemli/VCPlayBot)
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@SerkanErdemli/MyMusicBot)
 
 ### Mandatory Vars.
 
@@ -65,10 +65,10 @@ Baðlantýlý kanalda oynamayý sevmiyorsanýz:
  1. Kanal kimliðinizi alýn.
  2. Grubunuzu þu þekilde yeniden adlandýrýn: Kanal Müziði: your_channel_id
  3. @ByMusicBot'u tam izinlerle Kanal yöneticisi olarak ekleyin
- 4. kanala yardýmcý ekleyin
+ 4. Kanala yardýmcý asistan @ByMusicProAsistan ekleyin
  5. Grubunuza komutlarý göndermeniz yeterlidir.
 
-### Normal Kullanýcýlarý için Komutlar âš”ï¸
+### Normal Kullanýcýlarý için Komutlar ¸
 - `/userbotleaveall` - asistaný tüm sohbetlerden kaldýr
 - `/gcast <mesajý yanýtla>' - global olarak yayýn tüm sohbetlere mesaj yanýtladý
 - `/pmpermit [açýk/kapalý]' - pmpermit mesajýný etkinleþtir/devre dýþý býrak
