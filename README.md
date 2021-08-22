@@ -11,7 +11,7 @@ Get STRING_NAME from here:
 - Some Of The Mandatory Vars Are :-
    - `API_ID` :  Give API_ID of your Alternate Telegram Account. also get from here [@APIInfoBot](https://t.me/APIinfoBot)
    - `API_HASH` :  Give API_HASH of your Alternate Telegram Account. also get from here [@APIInfoBot](https://t.me/APIinfoBot)
-   - `STRING_NAME` :  Make a string session from [here](https://replit.com/@SerkanErdemli/VCPlayBot-1)
+   - `STRING_NAME` :  Make a string session from [here](https://replit.com/@SerkanErdemli/MyMusicBot)
    - `BOT_TOKEN` :  Make a Bot from [@Botfather](https://t.me/botfather) and fill it's bot token.
    - `Normal_USERS` :  Fill Userid of yhe users whom you want to be able to control the bot. You can add multiple id by giving a space in b/w each id.
 
@@ -21,7 +21,7 @@ Get STRING_NAME from here:
 
 
 
-## Komutlar ðŸ›
+## Komutlar ›
 
 - `/play <þarký adý>` - istediðiniz þarkýyý çal
 - `/dplay <þarký adý>` - deezer aracýlýðýyla istediðiniz þarkýyý çal
@@ -64,7 +64,7 @@ Yalnýzca baðlý grup yöneticileri için:
 Baðlantýlý kanalda oynamayý sevmiyorsanýz:
  1. Kanal kimliðinizi alýn.
  2. Grubunuzu þu þekilde yeniden adlandýrýn: Kanal Müziði: your_channel_id
- 3. @VCPlayBot'u tam izinlerle Kanal yöneticisi olarak ekleyin
+ 3. @ByMusicBot'u tam izinlerle Kanal yöneticisi olarak ekleyin
  4. kanala yardýmcý ekleyin
  5. Grubunuza komutlarý göndermeniz yeterlidir.
 
